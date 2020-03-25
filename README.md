@@ -1,5 +1,5 @@
-# [REPLACE]
-This is the issue tracker for [REPLACE].
+# Spread fast
+This is the issue tracker for the Spread fast game.
 
 ## Before you submit an issue 🐛
 1. Check if the issue already exists!
